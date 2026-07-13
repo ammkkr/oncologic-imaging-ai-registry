@@ -1,0 +1,17 @@
+query_id,query_term
+ai_cancer_imaging,artificial intelligence cancer imaging
+ml_cancer_imaging,machine learning cancer imaging
+dl_cancer_imaging,deep learning cancer imaging
+radiomics_cancer,radiomics cancer
+radiogenomics_cancer,radiogenomics cancer
+cadx_cancer_imaging,computer aided diagnosis cancer imaging
+caddet_cancer_imaging,computer aided detection cancer imaging
+artificial_intelligence_oncology_imaging,artificial intelligence oncology imaging
+ai_oncology_radiology,artificial intelligence oncology radiology
+ml_oncology_radiology,machine learning oncology radiology
+ai_neoplasm_imaging,artificial intelligence neoplasm imaging
+ml_neoplasm_imaging,machine learning neoplasm imaging
+dl_neoplasm_imaging,deep learning neoplasm imaging
+ai_lung_ct,artificial intelligence lung cancer CT
+ai_breast_mammography,artificial intelligence breast cancer mammography
+ai_prostate_mri,artificial intelligence prostate cancer MRI

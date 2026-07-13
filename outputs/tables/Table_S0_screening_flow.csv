@@ -1,0 +1,6 @@
+stage,screening_stage,n
+1,Candidate records identified and deduplicated,846
+2,Excluded after registry-record screening,180
+3,Broad or ancillary AI-imaging records retained for sensitivity analyses,403
+4,Core eligible records,263
+5,Primary cohort: core eligible and AI as primary focus,263

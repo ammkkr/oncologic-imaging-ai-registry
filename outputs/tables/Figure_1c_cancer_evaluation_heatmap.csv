@@ -1,0 +1,31 @@
+cancer_type,evaluation_group,n,cancer_label
+brain_cns,Clinical decision/patient outcome,0,Brain/CNS
+brain_cns,Diagnostic accuracy,10,Brain/CNS
+brain_cns,Model performance/other,3,Brain/CNS
+brain_cns,Prognostic/response prediction,6,Brain/CNS
+brain_cns,Reader/workflow,0,Brain/CNS
+breast,Clinical decision/patient outcome,2,Breast
+breast,Diagnostic accuracy,34,Breast
+breast,Model performance/other,2,Breast
+breast,Prognostic/response prediction,1,Breast
+breast,Reader/workflow,15,Breast
+colorectal,Clinical decision/patient outcome,1,Colorectal
+colorectal,Diagnostic accuracy,13,Colorectal
+colorectal,Model performance/other,0,Colorectal
+colorectal,Prognostic/response prediction,2,Colorectal
+colorectal,Reader/workflow,2,Colorectal
+liver,Clinical decision/patient outcome,2,Liver
+liver,Diagnostic accuracy,16,Liver
+liver,Model performance/other,2,Liver
+liver,Prognostic/response prediction,7,Liver
+liver,Reader/workflow,2,Liver
+lung,Clinical decision/patient outcome,6,Lung
+lung,Diagnostic accuracy,32,Lung
+lung,Model performance/other,1,Lung
+lung,Prognostic/response prediction,10,Lung
+lung,Reader/workflow,8,Lung
+prostate,Clinical decision/patient outcome,0,Prostate
+prostate,Diagnostic accuracy,17,Prostate
+prostate,Model performance/other,4,Prostate
+prostate,Prognostic/response prediction,2,Prostate
+prostate,Reader/workflow,6,Prostate

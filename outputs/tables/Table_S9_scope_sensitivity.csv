@@ -1,0 +1,5 @@
+cohort,n,prospective_ai_validation_n,prospective_ai_validation_percent,randomized_ai_workflow_n,randomized_ai_workflow_percent,downstream_clinical_impact_n,downstream_clinical_impact_percent,true_patient_outcome_n,true_patient_outcome_percent
+Full primary cohort,263,103,39.163498098859314,28,10.64638783269962,14,5.32319391634981,7,2.661596958174905
+Excluding radiomics-only studies,244,101,41.39344262295082,28,11.475409836065573,14,5.737704918032787,7,2.8688524590163933
+Excluding radiology-report-only studies,261,101,38.69731800766284,27,10.344827586206897,13,4.980842911877395,7,2.681992337164751
+Excluding radiomics-only and radiology-report-only studies,242,99,40.90909090909091,27,11.15702479338843,13,5.371900826446281,7,2.8925619834710745

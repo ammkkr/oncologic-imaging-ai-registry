@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the accompanying manuscript."
+title: "Registry labels obscure prospective and randomized evaluation of oncologic imaging artificial intelligence"
+type: software
+version: 0.9.0
+authors:
+  - family-names: Zhang
+    given-names: Teng
+    affiliation: "Department of Radiotherapy Oncology, Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital and Institute, Cancer Hospital of China Medical University"
+  - family-names: Wang
+    given-names: Shen
+    affiliation: "School of Cancer Science, College of Medical, Veterinary and Life Sciences, University of Glasgow"
+  - family-names: Gao
+    given-names: Ningning
+    affiliation: "Department of Medical Imaging, Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital and Institute, Cancer Hospital of China Medical University"
+  - family-names: Cao
+    given-names: Kang
+    affiliation: "Department of Toxicology, School of Public Health, China Medical University"
+  - family-names: Jiang
+    given-names: Zhangdong
+    affiliation: "School of Cancer Science, College of Medical, Veterinary and Life Sciences, University of Glasgow"
+  - family-names: Sun
+    given-names: Deyu
+    email: 2023411002@dlut.edu.cn
+    affiliation: "Department of Radiotherapy Oncology, Cancer Hospital of Dalian University of Technology, Liaoning Cancer Hospital and Institute, Cancer Hospital of China Medical University"
+license: MIT
+keywords:
+  - artificial intelligence
+  - oncologic imaging
+  - clinical trials
+  - ClinicalTrials.gov
+  - clinical validation

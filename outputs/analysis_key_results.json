@@ -1,0 +1,12 @@
+{
+  "extraction_date": "2026-05-11",
+  "primary_cohort_n": 263,
+  "registration_rate_ratio": 4.4077,
+  "registration_rate_ci": [3.2287, 6.1107],
+  "prospective_ai_validation_n": 103,
+  "randomized_ai_workflow_comparison_n": 28,
+  "downstream_clinical_impact_n": 14,
+  "true_patient_outcome_n": 7,
+  "completed_n": 72,
+  "any_public_results_completed_n": 15
+}

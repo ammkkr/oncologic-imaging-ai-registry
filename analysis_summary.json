@@ -1,0 +1,450 @@
+{
+  "extraction_date": "2026-05-11",
+  "candidate_records": 846,
+  "final_include_core": 263,
+  "primary_cohort_definition": "eligibility == include_core AND ai_as_primary_focus == yes",
+  "primary_cohort_n": 263,
+  "registration_periods": {
+    "2015-2020": 52,
+    "2021-2026": 211
+  },
+  "registration_rate": {
+    "early_2015_2020_count": 52,
+    "early_years": 6,
+    "late_2021_2025_count": 191,
+    "late_complete_years": 5,
+    "rate_ratio_late_vs_early": 4.4077,
+    "ci_low": 3.2287,
+    "ci_high": 6.1107,
+    "p_value": 6.0627e-26
+  },
+  "annual_registration_counts": [
+    {
+      "submitted_year": 2015,
+      "n": 2
+    },
+    {
+      "submitted_year": 2016,
+      "n": 3
+    },
+    {
+      "submitted_year": 2017,
+      "n": 5
+    },
+    {
+      "submitted_year": 2018,
+      "n": 8
+    },
+    {
+      "submitted_year": 2019,
+      "n": 16
+    },
+    {
+      "submitted_year": 2020,
+      "n": 18
+    },
+    {
+      "submitted_year": 2021,
+      "n": 24
+    },
+    {
+      "submitted_year": 2022,
+      "n": 26
+    },
+    {
+      "submitted_year": 2023,
+      "n": 33
+    },
+    {
+      "submitted_year": 2024,
+      "n": 63
+    },
+    {
+      "submitted_year": 2025,
+      "n": 45
+    },
+    {
+      "submitted_year": 2026,
+      "n": 20
+    }
+  ],
+  "period_specific_validation": [
+    {
+      "outcome_key": "prospective",
+      "outcome_label": "AI-specific prospective design",
+      "period": "2015-2020",
+      "numerator": 15,
+      "denominator": 52,
+      "proportion": 0.2885,
+      "ci_low": 0.1833,
+      "ci_high": 0.4227
+    },
+    {
+      "outcome_key": "prospective",
+      "outcome_label": "AI-specific prospective design",
+      "period": "2021-2026",
+      "numerator": 88,
+      "denominator": 211,
+      "proportion": 0.4171,
+      "ci_low": 0.3526,
+      "ci_high": 0.4845
+    },
+    {
+      "outcome_key": "randomized",
+      "outcome_label": "AI-workflow randomization",
+      "period": "2015-2020",
+      "numerator": 5,
+      "denominator": 52,
+      "proportion": 0.0962,
+      "ci_low": 0.0418,
+      "ci_high": 0.2061
+    },
+    {
+      "outcome_key": "randomized",
+      "outcome_label": "AI-workflow randomization",
+      "period": "2021-2026",
+      "numerator": 23,
+      "denominator": 211,
+      "proportion": 0.109,
+      "ci_low": 0.0737,
+      "ci_high": 0.1583
+    },
+    {
+      "outcome_key": "downstream_impact",
+      "outcome_label": "Decision, patient, or economic primary evaluation",
+      "period": "2015-2020",
+      "numerator": 0,
+      "denominator": 52,
+      "proportion": 0,
+      "ci_low": 0,
+      "ci_high": 0.0688
+    },
+    {
+      "outcome_key": "downstream_impact",
+      "outcome_label": "Decision, patient, or economic primary evaluation",
+      "period": "2021-2026",
+      "numerator": 14,
+      "denominator": 211,
+      "proportion": 0.0664,
+      "ci_low": 0.0399,
+      "ci_high": 0.1083
+    },
+    {
+      "outcome_key": "true_outcome",
+      "outcome_label": "True patient outcome endpoint",
+      "period": "2015-2020",
+      "numerator": 0,
+      "denominator": 52,
+      "proportion": 0,
+      "ci_low": 0,
+      "ci_high": 0.0688
+    },
+    {
+      "outcome_key": "true_outcome",
+      "outcome_label": "True patient outcome endpoint",
+      "period": "2021-2026",
+      "numerator": 7,
+      "denominator": 211,
+      "proportion": 0.0332,
+      "ci_low": 0.0162,
+      "ci_high": 0.0669
+    },
+    {
+      "outcome_key": "posted",
+      "outcome_label": "Registry results posted",
+      "period": "2015-2020",
+      "numerator": 3,
+      "denominator": 52,
+      "proportion": 0.0577,
+      "ci_low": 0.0198,
+      "ci_high": 0.1564
+    },
+    {
+      "outcome_key": "posted",
+      "outcome_label": "Registry results posted",
+      "period": "2021-2026",
+      "numerator": 0,
+      "denominator": 211,
+      "proportion": 0,
+      "ci_low": 0,
+      "ci_high": 0.0179
+    }
+  ],
+  "temporal_models": [
+    {
+      "outcome_key": "prospective",
+      "outcome_label": "AI-specific prospective design",
+      "annual_log_odds_coefficient": 0.0972,
+      "annual_standard_error": 0.0585,
+      "annual_odds_ratio": 1.1021,
+      "annual_or_ci_low": 0.9827,
+      "annual_or_ci_high": 1.236,
+      "annual_z": 1.6623,
+      "annual_p_value": 0.0965,
+      "late_vs_early_fisher_odds_ratio": 1.6991,
+      "late_vs_early_fisher_ci_low": 0.8419,
+      "late_vs_early_fisher_ci_high": 3.5718,
+      "late_vs_early_fisher_p_value": 0.1473
+    },
+    {
+      "outcome_key": "randomized",
+      "outcome_label": "AI-workflow randomization",
+      "annual_log_odds_coefficient": 0.0764,
+      "annual_standard_error": 0.0916,
+      "annual_odds_ratio": 1.0794,
+      "annual_or_ci_low": 0.902,
+      "annual_or_ci_high": 1.2917,
+      "annual_z": 0.8345,
+      "annual_p_value": 0.404,
+      "late_vs_early_fisher_odds_ratio": 1.2856,
+      "late_vs_early_fisher_ci_low": 0.445,
+      "late_vs_early_fisher_ci_high": 4.5647,
+      "late_vs_early_fisher_p_value": 0.8075
+    },
+    {
+      "outcome_key": "downstream_impact",
+      "outcome_label": "Decision, patient, or economic primary evaluation",
+      "annual_log_odds_coefficient": 0.2426,
+      "annual_standard_error": 0.1606,
+      "annual_odds_ratio": 1.2746,
+      "annual_or_ci_low": 0.9304,
+      "annual_or_ci_high": 1.7461,
+      "annual_z": 1.5108,
+      "annual_p_value": 0.1308,
+      "late_vs_early_fisher_odds_ratio": null,
+      "late_vs_early_fisher_ci_low": 0.8535,
+      "late_vs_early_fisher_ci_high": null,
+      "late_vs_early_fisher_p_value": 0.0764
+    }
+  ],
+  "design_reclassification": [
+    {
+      "design_domain": "Prospective design",
+      "study_level_positive_n": 170,
+      "ai_specific_yes_n": 103,
+      "ai_specific_no_n": 53,
+      "ai_specific_unclear_n": 14,
+      "ai_specific_confirmed_percent": 60.5882,
+      "not_confirmed_percent": 39.4118
+    },
+    {
+      "design_domain": "Randomized design",
+      "study_level_positive_n": 32,
+      "ai_specific_yes_n": 28,
+      "ai_specific_no_n": 3,
+      "ai_specific_unclear_n": 1,
+      "ai_specific_confirmed_percent": 87.5,
+      "not_confirmed_percent": 12.5
+    }
+  ],
+  "prospective_ai_validation": {
+    "n": 103,
+    "percent": 39.1635
+  },
+  "randomized_ai_workflow_comparison": {
+    "n": 28,
+    "percent": 10.6464
+  },
+  "downstream_clinical_impact_primary_evaluation": {
+    "n": 14,
+    "percent": 5.3232
+  },
+  "clinical_decision_impact": {
+    "n": 7,
+    "percent": 2.6616
+  },
+  "true_patient_outcome": {
+    "n": 7,
+    "percent": 2.6616
+  },
+  "registry_results_posted": {
+    "all_studies_n": 3,
+    "all_studies_denominator": 263,
+    "all_studies_percent": 1.1407,
+    "completed_studies_n": 3,
+    "completed_studies_denominator": 72,
+    "completed_studies_percent": 4.1667,
+    "completed_12_months_n": 3,
+    "completed_12_months_denominator": 60,
+    "completed_12_months_percent": 5
+  },
+  "pubmed_linked_empirical_results_publication": {
+    "completed_studies_n": 13,
+    "completed_studies_denominator": 72,
+    "completed_studies_percent": 18.0556,
+    "completed_12_months_n": 12,
+    "completed_12_months_denominator": 60,
+    "completed_12_months_percent": 20,
+    "exact_linkage_cutoff": "2026-05-11"
+  },
+  "any_public_results": {
+    "completed_studies_n": 15,
+    "completed_studies_denominator": 72,
+    "completed_studies_percent": 20.8333,
+    "completed_12_months_n": 14,
+    "completed_12_months_denominator": 60,
+    "completed_12_months_percent": 23.3333,
+    "definition": "registry results posted or empirical AI results article linked by exact NCT identifier by extraction"
+  },
+  "primary_evaluation_level_counts": [
+    {
+      "ai_evaluation_level_locked": "diagnostic_accuracy",
+      "n": 154,
+      "percent": 58.5551
+    },
+    {
+      "ai_evaluation_level_locked": "prognostic_prediction",
+      "n": 34,
+      "percent": 12.9278
+    },
+    {
+      "ai_evaluation_level_locked": "reader_performance",
+      "n": 27,
+      "percent": 10.2662
+    },
+    {
+      "ai_evaluation_level_locked": "technical_performance",
+      "n": 12,
+      "percent": 4.5627
+    },
+    {
+      "ai_evaluation_level_locked": "workflow_efficiency",
+      "n": 10,
+      "percent": 3.8023
+    },
+    {
+      "ai_evaluation_level_locked": "clinical_decision_impact",
+      "n": 7,
+      "percent": 2.6616
+    },
+    {
+      "ai_evaluation_level_locked": "treatment_response_prediction",
+      "n": 7,
+      "percent": 2.6616
+    },
+    {
+      "ai_evaluation_level_locked": "true_patient_outcome",
+      "n": 7,
+      "percent": 2.6616
+    },
+    {
+      "ai_evaluation_level_locked": "other_unclear",
+      "n": 5,
+      "percent": 1.9011
+    }
+  ],
+  "stage_appropriate_denominators": [
+    {
+      "evidence_stage": "Human-interaction or downstream-effect evaluation",
+      "n": 51,
+      "prospective_ai_validation_n": 33,
+      "randomized_ai_workflow_n": 11,
+      "completed_n": 13,
+      "unknown_status_n": 12
+    },
+    {
+      "evidence_stage": "Decision, patient, or economic primary evaluation",
+      "n": 14,
+      "prospective_ai_validation_n": 14,
+      "randomized_ai_workflow_n": 6,
+      "completed_n": 3,
+      "unknown_status_n": 3
+    }
+  ],
+  "radiomics_only_sensitivity": [
+    {
+      "cohort": "Full primary cohort",
+      "n": 263,
+      "prospective_ai_validation_n": 103,
+      "prospective_ai_validation_percent": 39.1635,
+      "randomized_ai_workflow_n": 28,
+      "randomized_ai_workflow_percent": 10.6464,
+      "downstream_clinical_impact_n": 14,
+      "downstream_clinical_impact_percent": 5.3232,
+      "true_patient_outcome_n": 7,
+      "true_patient_outcome_percent": 2.6616
+    },
+    {
+      "cohort": "Excluding radiomics-only studies",
+      "n": 244,
+      "prospective_ai_validation_n": 101,
+      "prospective_ai_validation_percent": 41.3934,
+      "randomized_ai_workflow_n": 28,
+      "randomized_ai_workflow_percent": 11.4754,
+      "downstream_clinical_impact_n": 14,
+      "downstream_clinical_impact_percent": 5.7377,
+      "true_patient_outcome_n": 7,
+      "true_patient_outcome_percent": 2.8689
+    },
+    {
+      "cohort": "Excluding radiology-report-only studies",
+      "n": 261,
+      "prospective_ai_validation_n": 101,
+      "prospective_ai_validation_percent": 38.6973,
+      "randomized_ai_workflow_n": 27,
+      "randomized_ai_workflow_percent": 10.3448,
+      "downstream_clinical_impact_n": 13,
+      "downstream_clinical_impact_percent": 4.9808,
+      "true_patient_outcome_n": 7,
+      "true_patient_outcome_percent": 2.682
+    },
+    {
+      "cohort": "Excluding radiomics-only and radiology-report-only studies",
+      "n": 242,
+      "prospective_ai_validation_n": 99,
+      "prospective_ai_validation_percent": 40.9091,
+      "randomized_ai_workflow_n": 27,
+      "randomized_ai_workflow_percent": 11.157,
+      "downstream_clinical_impact_n": 13,
+      "downstream_clinical_impact_percent": 5.3719,
+      "true_patient_outcome_n": 7,
+      "true_patient_outcome_percent": 2.8926
+    }
+  ],
+  "markers_by_registry_status": [
+    {
+      "status_group": "Completed",
+      "n": 72,
+      "prospective_ai_validation_n": 22,
+      "randomized_ai_workflow_n": 9,
+      "downstream_clinical_impact_n": 3,
+      "true_patient_outcome_n": 2
+    },
+    {
+      "status_group": "Ongoing or other",
+      "n": 126,
+      "prospective_ai_validation_n": 59,
+      "randomized_ai_workflow_n": 15,
+      "downstream_clinical_impact_n": 8,
+      "true_patient_outcome_n": 3
+    },
+    {
+      "status_group": "Unknown status",
+      "n": 65,
+      "prospective_ai_validation_n": 22,
+      "randomized_ai_workflow_n": 4,
+      "downstream_clinical_impact_n": 3,
+      "true_patient_outcome_n": 2
+    }
+  ],
+  "observational": {
+    "n": 183,
+    "percent": 69.5817
+  },
+  "single_center": {
+    "n": 182,
+    "percent": 69.2015
+  },
+  "completed": {
+    "n": 72,
+    "percent": 27.3764
+  },
+  "unknown_status": {
+    "n": 65,
+    "percent": 24.7148
+  },
+  "lung_breast_prostate": {
+    "n": 138,
+    "percent": 52.4715
+  }
+}

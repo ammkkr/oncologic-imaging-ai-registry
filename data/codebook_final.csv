@@ -1,0 +1,24 @@
+variable,definition,allowed_values,analysis_role
+eligibility,Final eligibility based on oncologic context radiological imaging and whether AI imaging was the principal object of evaluation,include_core;include_broad;exclude,Primary cohort and sensitivity analysis
+ai_as_primary_focus,Whether AI imaging was an explicit primary or major objective intervention comparator or prespecified evaluation,yes;no;unclear,Primary cohort definition
+adjudication_note,Record-specific rationale supporting final eligibility and AI-focus classification,free text,Audit trail
+study_level_prospective_design,Whether the registered study was interventional or an observational study with prospective time perspective,yes;no;unclear,Paired design reclassification
+prospective_ai_validation,Whether a fixed AI imaging tool or workflow was prospectively applied to newly accrued cases,yes;no;unclear,AI-specific design
+study_level_randomized_design,Whether the registered allocation field indicated randomization,yes;no;unclear,Paired design reclassification
+randomized_ai_workflow_comparison,Whether allocation changed exposure to AI-assisted imaging or workflow versus standard or non-AI care,yes;no;unclear,AI-specific design
+primary_ai_evaluation_level,Single principal AI-specific evaluation level assigned from registered primary outcomes and the explicit main AI objective,technical_performance;diagnostic_accuracy;reader_performance;workflow_efficiency;clinical_decision_impact;prognostic_prediction;treatment_response_prediction;true_patient_outcome;health_economic;other_unclear,Endpoint position
+true_patient_outcome,Whether the registered primary AI evaluation concerned patient health or a patient-reported consequence of AI use,yes;no;unclear,Patient-centered endpoint
+human_or_downstream_evaluation,Whether the primary level was reader workflow decision patient or economic evaluation,yes;no,Stage-appropriate denominator
+downstream_clinical_impact_endpoint,Whether the primary level was clinical decision impact true patient outcome or health-economic evaluation,yes;no,Downstream endpoint denominator
+radiomics_only,Whether radiomics was the only recorded AI-method category,yes;no,Scope sensitivity
+radiology_report_only,Whether radiology reports were the only recorded imaging source,yes;no,Scope sensitivity
+registry_results_posted,Whether ClinicalTrials.gov indicated posted results at extraction,true;false,Result linkage
+empirical_results_article_linked_by_exact_nct,Whether a completed study had an empirical AI-results PubMed article linked by exact NCT identifier by extraction,true;false;blank,Publication linkage
+submitted_year,Calendar year derived from first-submitted date,2015-2026,Temporal analysis
+registration_period,Prespecified descriptive submission period,2015-2020;2021-2026,Stratified analysis
+cancer_types,Semicolon-delimited non-mutually-exclusive cancer categories,registry-derived categories,Landscape analysis
+imaging_modalities,Semicolon-delimited non-mutually-exclusive imaging modalities or imaging-related sources,registry-derived categories,Landscape analysis
+ai_method_categories,Semicolon-delimited non-mutually-exclusive AI-method labels,registry-derived categories,Landscape analysis
+imaging_tasks,Semicolon-delimited clinical or technical imaging tasks,registry-derived categories,Landscape analysis
+center_category,Classification from registered facility count,single_center;multicenter;not_reported,Study characteristics
+extraction_date,Date of locked registry snapshot,2026-05-11,Version control

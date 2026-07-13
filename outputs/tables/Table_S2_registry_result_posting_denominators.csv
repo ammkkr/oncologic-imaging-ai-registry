@@ -1,0 +1,8 @@
+denominator_group,numerator,denominator,proportion,ci_low,ci_high
+Registry results posted: all primary-cohort studies,3,263,0.011406844106463879,0.0038867975874823657,0.032994498385746286
+Registry results posted: completed studies,3,72,0.041666666666666664,0.014270807466925196,0.11549276741316111
+Registry results posted: completed at least 12 months before extraction,3,60,0.05,0.017149502164395668,0.13700516476348515
+PubMed-linked empirical AI results article by extraction: completed studies,13,72,0.18055555555555555,0.10866816510019896,0.2848034173919824
+PubMed-linked empirical AI results article by extraction: completed at least 12 months before extraction,12,60,0.2,0.11828505322897497,0.31781805805627894
+Any registry-posted or PubMed-linked results by extraction: completed studies,15,72,0.20833333333333334,0.13052054982100705,0.3156926341935933
+Any registry-posted or PubMed-linked results by extraction: completed at least 12 months before extraction,14,60,0.23333333333333334,0.1443956173664283,0.3543627037760195

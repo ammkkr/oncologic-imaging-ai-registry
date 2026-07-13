@@ -1,0 +1,10 @@
+imaging_modality,n
+ct,132
+mri,92
+radiomics_feature_imaging,51
+ultrasound,49
+mammography_tomosynthesis,27
+pet,25
+radiology_report,18
+xray_radiograph,18
+image_guided_procedure,13

@@ -1,0 +1,11 @@
+# Local and editor files
+.DS_Store
+Thumbs.db
+.Rhistory
+.RData
+.Rproj.user/
+*.tmp
+*.bak
+
+# Live retrieval is intentionally regenerated locally
+data/live_retrieval/

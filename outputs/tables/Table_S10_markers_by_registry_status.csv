@@ -1,0 +1,4 @@
+status_group,n,prospective_ai_validation_n,randomized_ai_workflow_n,downstream_clinical_impact_n,true_patient_outcome_n
+Completed,72,22,9,3,2
+Ongoing or other,126,59,15,8,3
+Unknown status,65,22,4,3,2

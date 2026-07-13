@@ -1,0 +1,10 @@
+ai_evaluation_level_locked,n,percent
+diagnostic_accuracy,154,58.555133079847906
+prognostic_prediction,34,12.927756653992395
+reader_performance,27,10.26615969581749
+technical_performance,12,4.562737642585551
+workflow_efficiency,10,3.802281368821293
+clinical_decision_impact,7,2.661596958174905
+treatment_response_prediction,7,2.661596958174905
+true_patient_outcome,7,2.661596958174905
+other_unclear,5,1.9011406844106464

@@ -1,0 +1,74 @@
+nct_id,brief_title,completion_date,results_first_posted_date,exact_pubmed_matches,has_empirical_ai_results_publication,has_empirical_ai_results_publication_by_extraction,linked_pmids
+NCT02440139,Evaluation of Computer-Aided Lung Nodule Detection Software in Thoracic CT for Riverain Technologies LLC,2018-03-31,2021-10-04,0,FALSE,FALSE,
+NCT02943824,Machine-learning Optimization for Prostate Brachytherapy Planning,2018-09-04,,0,FALSE,FALSE,
+NCT03179150,Clinical Validation of the M5L Lung CAD,2017-06-01,,0,FALSE,FALSE,
+NCT03237130,Prediction of Lymphatic Metastasis in Esophageal Cancer by CT Radiomics,2020-05-15,,0,FALSE,FALSE,
+NCT03708978,Development of Artificial Intelligence System for Detection and Diagnosis of Breast Lesion Using Mammography,2020-05-04,,0,FALSE,FALSE,
+NCT03753724,IDEAL: Artificial Intelligence and Big Data for Early Lung Cancer Diagnosis Study,2022-03-31,,0,FALSE,FALSE,
+NCT03849040,The Use of Artificial Intelligence to Predict Cancerous Lymph Nodes for Lung Cancer Staging During Ultrasound Imaging,2019-11-20,,0,FALSE,FALSE,
+NCT03851497,Application of Deep-learning and Ultrasound Elastography in Opportunistic Screening of Breast Cancer,2021-01-01,,0,FALSE,FALSE,
+NCT04022512,Accuracy of Deep-learning Algorithm for Detection and Risk Stratification of Lung Nodules,2024-01-31,,0,FALSE,FALSE,
+NCT04027556,Low-contrast Dose Liver CT Using Lean Body Weight Low Monoenergetic Images and Deep Learning-based Reconstruction,2022-02-10,,1,TRUE,TRUE,36576547
+NCT04036903,D-Lung: An Analytics Platform for Lung Cancer Based on Deep Learning Technology,2020-06-30,,0,FALSE,FALSE,
+NCT04271657,RadioPathomics Artificial Intelligence Model to Predict nCRT Response in Locally Advanced Rectal Cancer,2020-12-30,,1,TRUE,TRUE,34952679
+NCT04317313,18F-FDG PET Radiomics of Diffuse Large B-cell Lymphoma,2021-07-30,2021-06-25,1,TRUE,TRUE,34651227
+NCT04340180,Evaluating the Performance of AI in Evaluating Breast MRI Performed With Dose Reduction,2026-01-20,,0,FALSE,FALSE,
+NCT04441775,Artificial Intelligence for Prostate Cancer Treatment Planning,2022-03-04,,0,FALSE,FALSE,
+NCT04688086,A Prospective Study to Evaluate Clinical Performance of Thermalytix in Detecting Breast Cancers,2020-01-30,2024-10-17,0,FALSE,FALSE,
+NCT04816981,AI-EBUS-Elastography for LN Staging,2022-05-01,,0,FALSE,FALSE,
+NCT04838756,Mammography Screening With Artificial Intelligence (MASAI),2025-08-12,,3,TRUE,TRUE,41620232;39904652;37541274
+NCT04893200,Radiomics-based Prediction Model of Tumor Spread Through Air Space in Lung Adenocarcinoma,2021-06-01,,1,TRUE,TRUE,35529792
+NCT04949776,Artificial Intelligence in Breast Cancer Screening Programs,2024-01-11,,0,FALSE,FALSE,
+NCT04954378,Radiomics Based on Multimodal Imaging in Predicting Staging and Prognosis of Pancreatic Cancer,2020-12-30,,0,FALSE,FALSE,
+NCT05048095,Artificial Intelligence in Breast Cancer Screening in Region Östergötland Linkoping,2022-02-15,,0,FALSE,FALSE,
+NCT05385718,Ezra Faster Scan Study,2025-02-24,,0,FALSE,FALSE,
+NCT05481762,Evaluation of Contextflow DETECT Lung CT Nodule Detection Software in Chest CT Scans,2022-10-30,,0,FALSE,FALSE,
+NCT05589480,Machine Learning for Recurrence Risk of Pancreatic Cancer After Radical Resection,2022-09-01,,0,FALSE,FALSE,
+NCT05615298,Study to Evaluate Effectiveness of Investigational Device in the Assistance of Detection and Diagnosis of Breast Cancer,2021-01-13,,0,FALSE,FALSE,
+NCT05640011,Clinical Validation of an Artificial Intelligence Algorithm to Help Interpret Mammograms,2023-05-20,,0,FALSE,FALSE,
+NCT05723965,Using Artificial Intelligence to Predict Rectal Cancer Outcomes,2022-12-31,,0,FALSE,FALSE,
+NCT05804799,Liver CT Dose Reduction With Deep Learning Based Reconstruction,2022-12-31,,1,TRUE,TRUE,38231025
+NCT05820113,Deep Learning Super Resolution Reconstruction for Fast and Motion Robust T2-weighted Prostate MRI,2022-11-30,,1,TRUE,TRUE,37750774
+NCT05960188,Project 1: Self-Triage by 2D Full-field Digital Mammography or Synthetic Images,2023-03-04,,0,FALSE,FALSE,
+NCT05979883,Randomized Evaluation of Machine Learning Assisted Radiation Treatment Planning vs Standard Radiation Treatment Planning,2025-10-29,,0,FALSE,FALSE,
+NCT06037343,Deep Learning Image Reconstruction for Abdominal CT of Hepatocellular Carcinoma Compared With 3-TESLA MRI,2023-12-30,,0,FALSE,FALSE,
+NCT06104189,Prospective Ultrafast MRI Radiomics for Breast Cancer,2023-08-31,,1,TRUE,TRUE,39862364
+NCT06168864,Development of Artificial Intelligence Models for Segmentation and Characterization of Prostate Cancer: a Single-center Retrospective Observational Study.,2022-06-01,,0,FALSE,FALSE,
+NCT06187350,The Use of AI to Safely Reduce the Workload in Breast Cancer Screening With Mammography in Region Östergötland,2025-03-20,,0,FALSE,FALSE,
+NCT06336694,A Deep Learning Radiomics Model for Predicting Occult Peritoneal Metastases of Pancreatic Adenocarcinoma,2023-07-30,,0,FALSE,FALSE,
+NCT06479772,Evaluation of the Potential Impact of an Artificial Intelligence Solution in Second Reading of Organized Screening.,2024-03-31,,0,FALSE,FALSE,
+NCT06267690,A CT-based Radiomics Model to Predict Survival-graded Fibrosis in PDAC,2023-08-31,,0,FALSE,FALSE,
+NCT06281769,Prostate Cancer Detection Rate of Targeted Biopsies With PCaVision,2025-08-15,,2,FALSE,FALSE,41550796;39050912
+NCT06306599,Human-AI Collaboration for Ultrasound Diagnosis of Thyroid Nodules - a Clinical Trial,2023-11-04,,0,FALSE,FALSE,
+NCT06314750,Deep Learning Based MRI Radiomics in Predicting the Clinical Risk of Locally Advanced Rectal Cancer,2025-06-30,,0,FALSE,FALSE,
+NCT06331975,Radiomics and Radiogenomics of Non-small Cell Lung Cancer,2023-09-14,,1,TRUE,FALSE,42095156
+NCT06342934,Radiomics and Machine Learning in the Diagnosis of Ovarian Masses,2023-12-31,,0,FALSE,FALSE,
+NCT06362291,Comparison of MRI AI-cTB Versus Routine cTB in Prostate Cancer Diagnosis: a Prospective Randomized Controlled Trial,2024-10-31,,1,TRUE,TRUE,39533250
+NCT06366906,10-year Retrospective Study of Oral and Maxillofacial Squamous Cell Carcinoma,2024-02-10,,0,FALSE,FALSE,
+NCT06428799,Evaluation of Carebot AI MMG Medical Device for Breast Lesion Detection and Density Assessment,2024-04-24,,0,FALSE,FALSE,
+NCT06521788,Artificial Intelligence Assisted Breast Ultrasound in Breast Cancer Screening,2023-12-31,,1,TRUE,TRUE,41057952
+NCT06546072,Deep Learning With MRI-based Multimodal-data Fusion Enhanced Postoperative Risk Stratification of Breast Cancer,2021-12-06,,1,TRUE,TRUE,40345352
+NCT06559046,A CT-BASED Deep Learning Model for Predicting WHO/ISUP Pathological Grades of Clear Cell Renal Cell Carcinoma (ccRCC) :A Multicenter Cohort Study,2024-06-30,,0,FALSE,FALSE,
+NCT06575361,Comprehensive Evaluation of MRI-AI in Prostate Cancer Diagnosis,2025-08-31,,0,FALSE,FALSE,
+NCT06576232,Standalone Observational Study Assessing the Performance of an AI/ML Tech-based SaMD on Chest LDCT Images (REALITY),2024-08-21,,0,FALSE,FALSE,
+NCT06589154,The Application of Multimodal Artificial Intelligence Systems in Prostate Cancer Diagnosis and Prognosis Analysis,2025-07-30,,0,FALSE,FALSE,
+NCT06604078,Breast Cancer AI Imaging Study,2025-09-01,,0,FALSE,FALSE,
+NCT06637059,Artificially Intelligent Model for Accurate Detection of HCC,2024-10-01,,0,FALSE,FALSE,
+NCT06641947,Differentiation Benign and Malignant Pancreatic Lesions,2024-09-20,,1,TRUE,TRUE,39832039
+NCT06659601,Deep Learning Model to Predict the Recurrence of Stage IA Invasive Lung Adenocarcinoma After Sub-lobar Resection,2024-10-24,,0,FALSE,FALSE,
+NCT06737367,Integrating Machine Learning for Prognostic Prediction in Stage I NSCLC by CT Images and Pathological Factors,2024-11-11,,0,FALSE,FALSE,
+NCT06757530,Radiomics Model for Assessing Lymph Node Status in cN0 Patients withHNSCC,2025-04-15,,0,FALSE,FALSE,
+NCT06761742,Development of AI Model for Renal Tumor Diagnosis Using CT and Lab Tests,2024-12-01,,0,FALSE,FALSE,
+NCT06853457,A Transfer Learning Radiomics Model for Predicting Response to Initial Transarterial Embolization in Patients with Gastroenteropancreatic Neuroendocrine Tumor Liver Metastases,2024-09-01,,0,FALSE,FALSE,
+NCT06885333,Whole-Brain Tumor Burden Metrics with Inflammatory and Molecular Markers to Predict Postoperative Neurocognitive Decline in Glioma,2024-12-01,,0,FALSE,FALSE,
+NCT06888089,Deep Clinical Trajectory Modeling to Optimize Accrual to Cancer Clinical Trials,2024-07-15,,1,TRUE,TRUE,40257799
+NCT06984289,US Radiomics in Advanced Cervical Cancer,2025-05-14,,0,FALSE,FALSE,
+NCT07065422,AI Models for Predicting Occult Pleural Dissemination in NSCLC,2025-01-01,,0,FALSE,FALSE,
+NCT07117786,Computed Tomography Radiomics-Derived Nomogram for Predicting Early Renal Function Decline After Partial Nephrectomy in Renal Cell Carcinoma: A Multicenter Development/Validation Study,2023-06-01,,0,FALSE,FALSE,
+NCT07153783,Interventional AI-Human Collaboration for Liver Tumor Diagnosis,2025-11-07,,0,FALSE,FALSE,
+NCT07181954,"CT-based Radiomics for Prediction of MIT Family Translocation Kidney Cancer: a Multicenter, Retrospective Clinical Study",2023-12-31,,0,FALSE,FALSE,
+NCT07190040,Integrating Multi-Omics Data for Enhanced Prognosis Prediction in Gastric Cancer Post-Neoadjuvant Therapy,2025-09-01,,0,FALSE,FALSE,
+NCT07251946,Development of Multiphasic CT-based Delta-Radiomics Model for Predicting Postoperative Recurrence Risk in Bladder Cancer,2023-03-31,,0,FALSE,FALSE,
+NCT07287111,Effectiveness of CadAI-B Dx for Decision Support in Breast Ultrasound,2025-11-24,,0,FALSE,FALSE,
+NCT07350382,Predicting Cognitive Dysfunction After Pediatric Posterior Fossa Tumor Surgery,2024-01-01,,0,FALSE,FALSE,
+NCT07496684,Application and Evaluation of Vision-LSTM Modeling in Diagnostic Ultrasound Imaging of TI-RADS Category 4b Thyroid Nodules,2024-12-30,,0,FALSE,FALSE,

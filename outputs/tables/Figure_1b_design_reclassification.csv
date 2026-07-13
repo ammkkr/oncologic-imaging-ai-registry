@@ -1,0 +1,5 @@
+design_measure,classification_level,numerator,denominator,proportion,percent,direct_label
+Prospective design,Study-level registry design,170,263,0.6463878326996197,64.63878326996198,170/263 (64.6%)
+Prospective design,AI-specific confirmation,103,263,0.3916349809885932,39.163498098859314,103/263 (39.2%)
+Randomized design,Study-level registry design,32,263,0.12167300380228137,12.167300380228136,32/263 (12.2%)
+Randomized design,AI-specific confirmation,28,263,0.10646387832699619,10.646387832699618,28/263 (10.6%)

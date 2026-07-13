@@ -1,0 +1,4 @@
+cohort,n,prospective_n,prospective_percent,randomized_n,randomized_percent,downstream_impact_n,downstream_impact_percent,true_outcome_n,true_outcome_percent,posted_n,posted_percent
+Primary cohort,263,103,39.163498098859314,28,10.64638783269962,14,5.32319391634981,7,2.661596958174905,3,1.1406844106463878
+Final include-core cohort regardless of AI-primary flag,263,103,39.163498098859314,28,10.64638783269962,14,5.32319391634981,7,2.661596958174905,3,1.1406844106463878
+Final core-plus-broad cohort with AI-primary focus,450,165,36.666666666666664,28,6.222222222222222,79,17.555555555555557,7,1.5555555555555556,6,1.3333333333333333
