@@ -18,10 +18,12 @@ Version 0.9.0 reproduces the reported analyses from the locked May 11, 2026 regi
 ## Repository structure
 
 ```text
-data/       Locked candidate, primary, sensitivity, search, codebook, and linkage files
-docs/       Search, adjudication, and reproducibility documentation
-scripts/    Live candidate retrieval and locked-data analysis scripts
-outputs/    Main figure exports and source tables
+data/                    Locked candidate, primary, sensitivity, search, codebook, and linkage files
+docs/                    Search, adjudication, and reproducibility documentation
+scripts/                 Live candidate retrieval and locked-data analysis scripts
+outputs/figures/         Main figure exports
+outputs/tables/          Source and supplementary analysis tables
+outputs/supplementary/   Submission-ready detailed audit appendix and record-level workbook
 ```
 
 ## Reproduce the analysis
